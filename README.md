@@ -1,6 +1,10 @@
 # 🧠 Daily Python Logic Practice
 
-This repository contains my daily practice focused on improving logical thinking and problem-solving skills using Python.
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Practice-Daily-success)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange)
+![Repo Size](https://img.shields.io/github/repo-size/kanha165/daily-python-logic)
+![Stars](https://img.shields.io/github/stars/kanha165/daily-python-logic?style=social)
 
 ---
 
@@ -13,45 +17,39 @@ This repository contains my daily practice focused on improving logical thinking
 
 ---
 
-## 🗂️ Practice Areas
+## 📁 File-wise Problems
 
-* Basic Logic Building
-* Lists and Arrays
-* Loops and Conditions
-* Number-based Problems
-* Problem Solving Techniques
+| File Name | Problem                                  |
+| --------- | ---------------------------------------- |
+| 01.py     | Sum of all items in a list               |
+| 02.py     | Multiplication Table                     |
+| 03.py     | Palindrome Number                        |
+| 04.py     | Count Digits in a Number                 |
+| 05.py     | Prime Number Check                       |
+| 06.py     | Count Vowels and Consonants              |
+| 07.py     | Remove Duplicates from List              |
+| 08.py     | Pattern Printing                         |
+| 09.py     | String Compression (Run-Length Encoding) |
+| 10.py     | Sum of Digits                            |
+| 11.py     | Largest Number in List                   |
+| 12.py     | Second & Third Largest Number            |
+| 13.py     | Factorial of a Number                    |
+| 14.py     | Count Even and Odd Numbers               |
+| 15.py     | Count Positive and Negative Numbers      |
 
 ---
 
 ## 📅 Progress
 
-I solve and upload problems on a daily basis to maintain consistency and track improvement over time.
-
----
-
-## 📁 Structure
-
-Each day contains practice files organized systematically for better readability and tracking.
+I solve and upload problems daily to maintain consistency and track improvement.
 
 ---
 
 ## 🚀 How to Use
 
-1. Clone the repository
-
 ```bash
-git clone https://github.com/your-username/daily-python-logic.git
-```
-
-2. Navigate to the project folder
-
-```bash
+git clone https://github.com/kanha165/daily-python-logic.git
 cd daily-python-logic
-```
-
-3. Run Python files
-
-```bash
 python filename.py
 ```
 
@@ -68,7 +66,7 @@ python filename.py
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a ⭐.
+If you find this repository helpful, consider giving it a ⭐
 
 ---
 
@@ -79,4 +77,3 @@ GitHub: https://github.com/kanha165
 ---
 
 **Consistency is the key to mastery 🚀**
-
