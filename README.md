@@ -3,8 +3,25 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Practice-Daily-success)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange)
-![Repo Size](https://img.shields.io/github/repo-size/kanha165/daily-python-logic)
 ![Stars](https://img.shields.io/github/stars/kanha165/daily-python-logic?style=social)
+
+---
+
+## 📊 My Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanha165\&theme=github-dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kanha165\&theme=dark\&hide_border=true)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanha165\&show_icons=true\&theme=radical)
 
 ---
 
@@ -19,29 +36,29 @@
 
 ## 📁 File-wise Problems
 
-| File Name | Problem                                  |
-| --------- | ---------------------------------------- |
-| 01.py     | Sum of all items in a list               |
-| 02.py     | Multiplication Table                     |
-| 03.py     | Palindrome Number                        |
-| 04.py     | Count Digits in a Number                 |
-| 05.py     | Prime Number Check                       |
-| 06.py     | Count Vowels and Consonants              |
-| 07.py     | Remove Duplicates from List              |
-| 08.py     | Pattern Printing                         |
-| 09.py     | String Compression (Run-Length Encoding) |
-| 10.py     | Sum of Digits                            |
-| 11.py     | Largest Number in List                   |
-| 12.py     | Second & Third Largest Number            |
-| 13.py     | Factorial of a Number                    |
-| 14.py     | Count Even and Odd Numbers               |
-| 15.py     | Count Positive and Negative Numbers      |
+| File Name | Problem                     |
+| --------- | --------------------------- |
+| 01.py     | Sum of all items in a list  |
+| 02.py     | Multiplication Table        |
+| 03.py     | Palindrome Number           |
+| 04.py     | Count Digits in a Number    |
+| 05.py     | Prime Number Check          |
+| 06.py     | Count Vowels and Consonants |
+| 07.py     | Remove Duplicates from List |
+| 08.py     | Pattern Printing            |
+| 09.py     | String Compression          |
+| 10.py     | Sum of Digits               |
+| 11.py     | Largest Number in List      |
+| 12.py     | Second & Third Largest      |
+| 13.py     | Factorial                   |
+| 14.py     | Count Even and Odd          |
+| 15.py     | Count Positive and Negative |
 
 ---
 
 ## 📅 Progress
 
-I solve and upload problems daily to maintain consistency and track improvement.
+I solve and upload problems daily to maintain consistency.
 
 ---
 
@@ -55,18 +72,9 @@ python filename.py
 
 ---
 
-## 📈 Approach
-
-* Practice daily
-* Focus on logic rather than memorization
-* Keep solutions simple and clean
-* Continuously improve
-
----
-
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a ⭐
+If you find this helpful, give it a ⭐
 
 ---
 
