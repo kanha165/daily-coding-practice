@@ -36,23 +36,34 @@
 
 ## 📁 File-wise Problems
 
-| File Name | Problem                     |
-| --------- | --------------------------- |
-| 01.py     | Sum of all items in a list  |
-| 02.py     | Multiplication Table        |
-| 03.py     | Palindrome Number           |
-| 04.py     | Count Digits in a Number    |
-| 05.py     | Prime Number Check          |
-| 06.py     | Count Vowels and Consonants |
-| 07.py     | Remove Duplicates from List |
-| 08.py     | Pattern Printing            |
-| 09.py     | String Compression          |
-| 10.py     | Sum of Digits               |
-| 11.py     | Largest Number in List      |
-| 12.py     | Second & Third Largest      |
-| 13.py     | Factorial                   |
-| 14.py     | Count Even and Odd          |
-| 15.py     | Count Positive and Negative |
+| File Name | Problem                               |
+| --------- | ------------------------------------- |
+| 01.py     | Sum of all items in a list            |
+| 02.py     | Multiplication Table                  |
+| 03.py     | Palindrome Number                     |
+| 04.py     | Count Digits in a Number              |
+| 05.py     | Prime Number Check                    |
+| 06.py     | Count Vowels and Consonants           |
+| 07.py     | Remove Duplicates from List           |
+| 08.py     | Pattern Printing                      |
+| 09.py     | String Compression                    |
+| 10.py     | Sum of Digits                         |
+| 11.py     | Largest Number in List                |
+| 12.py     | Second & Third Largest                |
+| 13.py     | Factorial                             |
+| 14.py     | Count Even and Odd                    |
+| 15.py     | Count Positive and Negative           |
+| 16.py     | Minimum Number in a List              |
+| 17.py     | Separate Even and Odd Numbers         |
+| 18.py     | Average of List Elements              |
+| 19.py     | Square of Each Element in List        |
+| 20.py     | Replace Negative Values with Zero     |
+| 21.py     | Smallest Even Number in List          |
+| 22.py     | Second Largest Digit in Number        |
+| 23.py     | Sum of Squares of Digits              |
+| 24.py     | Find First Digit of a Number          |
+| 25.py     | Check Number Ends with 5              |
+
 
 ---
 
