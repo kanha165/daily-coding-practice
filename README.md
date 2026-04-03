@@ -63,7 +63,11 @@
 | 23.py     | Sum of Squares of Digits              |
 | 24.py     | Find First Digit of a Number          |
 | 25.py     | Check Number Ends with 5              |
-
+| 26.py     | Count Uppercase Letters in String     |
+| 27.py     | Print Elements at Even Index          |
+| 28.py     | Find Longest Word in String           |
+| 29.py     | Sum of Odd Numbers in List            |
+| 30.py     | Product of Even Digits                |
 
 ---
 
