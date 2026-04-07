@@ -74,6 +74,10 @@
 | 34.py     | Double Each Element in List                     |
 | 35.py     | Count Elements Equal to Average                 |
 | 36.py     | Check if List is Sorted (Ascending/Descending)  |
+| 37.py     | Find All Even Numbers in List and Their Sum |
+| 38.py     | Count Numbers Ending with 5                 |
+| 39.py     | Create List of Cubes from Given List        |
+
 
 
 ---
