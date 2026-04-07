@@ -77,7 +77,7 @@
 | 37.py     | Find All Even Numbers in List and Their Sum |
 | 38.py     | Count Numbers Ending with 5                 |
 | 39.py     | Create List of Cubes from Given List        |
-| 49.py     | | 39.py     | Create List of Cubes from Given List        |  
+| 40.py     | Shift all 0 of the list to the end         |  
 | 41.py     | find comman element of two lists        |
 
 
