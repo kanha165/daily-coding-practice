@@ -79,6 +79,9 @@
 | 39.py     | Create List of Cubes from Given List        |
 | 40.py     | Shift all 0 of the list to the end         |  
 | 41.py     | find comman element of two lists        |
+| 42.py     |  Find Element of maximum frequency |
+| 43.py     | Find Frequency of each elements        |
+
 
 
 
