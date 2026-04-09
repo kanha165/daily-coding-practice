@@ -81,6 +81,9 @@
 | 41.py     | find comman element of two lists        |
 | 42.py     |  Find Element of maximum frequency |
 | 43.py     | Find Frequency of each elements        |
+| 44.py     | Rotate List by position like        |
+| 45.py     |  Check if Two Lists Are Rotations of Each Other       |
+| 46.py     |Find Element with Minimum Frquency      |
 
 
 
