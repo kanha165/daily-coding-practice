@@ -84,6 +84,10 @@
 | 44.py     | Rotate List by position like        |
 | 45.py     |  Check if Two Lists Are Rotations of Each Other       |
 | 46.py     |Find Element with Minimum Frquency      |
+| 47.py     | Find missing number (1 to n)       |
+| 48.py     | Find duplicate element     |
+| 49.py     |  Find intersection of two arrays       |
+| 50.py     |  Find union of two array whithout set   |
 
 
 
