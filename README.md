@@ -5,7 +5,7 @@
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange)
 ![Stars](https://img.shields.io/github/stars/kanha165/daily-python-logic?style=social)
 
----
+--
 
 ## 📊 My Contribution Graph
 
