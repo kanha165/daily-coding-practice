@@ -89,6 +89,20 @@
 | 49.py     |  Find length of string (without using len())     |
 | 50.py     |  Remove duplicate characters from a string  |
 
+# Arrays Practice Questions
+
+This folder contains basic array problems implemented in Python.
+
+---
+
+## 📊 Questions Overview
+
+| S.No | Question Title                         | Description                                                                 | File |
+|------|----------------------------------------|-----------------------------------------------------------------------------|------|
+| 1    | Find Missing Number (1 to n)           | Find missing numbers in a sequence from 1 to n                              | array_01.py |
+| 2    | Find Duplicate Elements                | Identify elements that appear more than once with their frequency           | array_02.py |
+| 3    | Intersection of Two Arrays             | Find common elements between two arrays                                     | array_03.py |
+
 
 
 
