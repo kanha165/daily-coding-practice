@@ -71,7 +71,7 @@
 | 31.py     | Find Difference Between Max and Min           |
 | 32.py     | Replace All Even Digits with 0                |
 | 33.py     | Remove All Vowels from String                 |
-| 34.py     | Double Each Element in List                    |
+| 34.py     | Double Each Element in List                   |
 | 35.py     | Count Elements Equal to Average                 |
 | 36.py     | Check if List is Sorted (Ascending/Descending)  |
 | 37.py     | Find All Even Numbers in List and Their Sum |
