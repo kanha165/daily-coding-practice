@@ -97,6 +97,15 @@ This folder contains basic array problems implemented in Python.
 
 ## 📊 Questions Overview
 
+| File Name   | Problem                                                 |
+| ----------- | ------------------------------------------------------- |
+| array_01.py | Find Missing Number (1 to n)                            |
+| array_02.py | Find Duplicate Elements                                 |
+| array_03.py | Intersection of Two Arrays                              |
+| array_04.py | Union of Two Arrays (Without using set)                 |
+| array_05.py | Find all pairs with given sum                           |
+| array_06.py | Find subarray with given sum                            |
+| array_07.py | Leaders in an array (elements greater than right side)  |
 
 
 
