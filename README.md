@@ -68,9 +68,9 @@
 | 28.py     | Find Longest Word in String           |
 | 29.py     | Sum of Odd Numbers in List            |
 | 30.py     | Product of Even Digits                |
-| 31.py     | Find Difference Between Max and Min             |
-| 32.py     | Replace All Even Digits with 0                  |
-| 33.py     | Remove All Vowels from String                   |
+| 31.py     | Find Difference Between Max and Min           |
+| 32.py     | Replace All Even Digits with 0                |
+| 33.py     | Remove All Vowels from String                 |
 | 34.py     | Double Each Element in List                    |
 | 35.py     | Count Elements Equal to Average                 |
 | 36.py     | Check if List is Sorted (Ascending/Descending)  |
