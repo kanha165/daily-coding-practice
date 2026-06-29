@@ -3,6 +3,7 @@
 str=input("enter a string")
 vowels_count=0
 conso_count=0
+
 for ch in str:
     if ch.isalpha():
         if ch in "aeiouAEIOU":
