@@ -6,5 +6,6 @@ for i in list:
     if i not in result:
         result.append(i)
     
+    
 print(result)        
         
