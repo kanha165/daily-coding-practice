@@ -7,6 +7,7 @@ for ch in string:
         result[ch]+=1
     else:
         result[ch]=1
+        
 print(result)        
             
            
