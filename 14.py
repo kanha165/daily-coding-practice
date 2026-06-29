@@ -8,5 +8,7 @@ for i in list:
     else:
         odd+=1
         
+        
 print("even count is ",even)            
 print("odd count is ",odd)            
+
