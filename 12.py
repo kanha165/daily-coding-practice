@@ -2,6 +2,7 @@
 list=[23,45,12,990,992,85,67,98,45,991,24]
 first=second=0  
 for num in list:
+    
     if num >first:
         second=first
         first=num
