@@ -6,6 +6,31 @@ This repository contains my daily coding practice solutions in Python. The goal 
 
 
 ---
+## 📋 Questions List
+
+| S.No | File Name | Problem Statement |
+|------|-----------|------------------|
+| 1 | 01.py | Sum all items in a list |
+| 2 | 02.py | Print multiplication table of a number |
+| 3 | 03.py | Check whether a number is palindrome or not |
+| 4 | 04.py | Count digits in a number |
+| 5 | 05.py | Check whether a number is prime or not |
+| 6 | 06.py | Count vowels and consonants in a string |
+| 7 | 07.py | Remove duplicates from a list |
+| 8 | 08.py | Print number pattern |
+| 9 | 09h.py | Count frequency of characters in a string |
+| 10 | 10.py | Find sum of digits of a number |
+| 11 | 11.py | Find the largest number in a list |
+| 12 | 12.py | Find the second largest number in a list |
+| 13 | 13.py | Find factorial of a number |
+| 14 | 14.py | Count even and odd numbers in a list |
+| 15 | 15.py | Count positive and negative numbers in a list |
+| 16 | 16.py | Find the minimum number in a list |
+| 17 | 17.py | Separate even and odd numbers from a list |
+| 18 | 18.py | Find the average of elements in a list |
+| 19 | 19.py | Create a new list containing squares of elements |
+| 20 | 20.py | Python practice question 20 |
+
 
 ### 🔹 String Questions
 
