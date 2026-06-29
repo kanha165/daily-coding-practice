@@ -6,3 +6,4 @@ for i in l:
         minimun=i
 print("minimun number in a list is :",minimun)       
         
+        
