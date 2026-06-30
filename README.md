@@ -31,6 +31,17 @@ This repository contains my daily coding practice solutions in Python. The goal 
 | 18 | 18.py | Find the average of elements in a list |
 | 19 | 19.py | Create a new list containing squares of elements |
 | 20 | 20.py | Python practice question 20 |
+| 21 | 21.py | Find the smallest even number in a list |
+| 22 | 22.py | Find the second largest digit in a number |
+| 23 | 23.py | Find sum of squares of digits |
+| 24 | 24.py | Find the first digit of a number |
+| 25 | 25.py | Check whether a number ends with 5 |
+| 26 | 26.py | Count uppercase letters in a string |
+| 27 | 27.py | Print elements at even indices in a list |
+| 28 | 28.py | Find the longest word in a string |
+| 29 | 29.py | Find sum of odd numbers in a list |
+| 30 | 30.py | Find product of even digits |
+| 31 | 31.py | Find difference between maximum and minimum elements |
 
 
 ### 🔹 String Questions
